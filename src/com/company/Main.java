@@ -6,7 +6,6 @@ public class Main {
     private static boolean isTimeToStop2 = true;
     private static boolean isTimeToStop3 = true;
 
-
     public static void main(String[] args) {
 
         Thread t1 = new Thread(() -> {
